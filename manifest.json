@@ -1,0 +1,14 @@
+{
+    "domain": "nad_c338",
+    "name": "NAD C338 integration",
+    "codeowners": [
+        "@iamrgroot"
+    ],
+    "dependencies": [],
+    "documentation": "https://github.com/iamrgroot/ha-nadtcp",
+    "issue_tracker": "https://github.com/iamrgroot/ha-nadtcp/issues",
+    "integration_type": "device",
+    "iot_class": "local_polling",
+    "requirements": [],
+    "version": "1.0.0"
+  }

@@ -1,4 +1,5 @@
 {
-  "name": "NAD C338 component",
-  "render_readme": true
+    "name": "NAD C338 integration",
+    "render_readme": true,
+    "homeassistant": "2024.6.4"
 }
